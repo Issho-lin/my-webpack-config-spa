@@ -1,0 +1,16 @@
+{
+  "id": "1751076",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6151225",
+      "name": "wind-smile",
+      "font_class": "wind-smile",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    }
+  ]
+}
